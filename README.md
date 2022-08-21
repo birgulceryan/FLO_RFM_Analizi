@@ -1,5 +1,6 @@
 # RFM Analizi ile Müşteri Segmentasyonu
-![image](https://user-images.githubusercontent.com/108512938/178162460-c9c2ee11-6517-4239-bb0f-a9b165580497.png)
+![1_MCGPMFD7MTClqDem06mkcQ](https://user-images.githubusercontent.com/108512938/185794912-8d4d108b-fdc4-42e9-ad67-bff24299a64d.png)
+
 # İş Problemi
 Online ayakkabı mağazası olan FLO müşterilerini
 segmentlere ayırıp bu segmentlere göre pazarlama
